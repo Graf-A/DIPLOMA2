@@ -21,7 +21,7 @@
 
 1. Склонировать проект с удаленного репозитория на GitHub на локальный компьютер с помощью терминала Git командой: 
 ```
-git clone https://github.com/Oksana-Zett/DIPLOMA2.git
+git clone https://github.com/Graf-A/DIPLOMA3.git
 ```
 
 *Примечание:*  
